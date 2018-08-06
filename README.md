@@ -1,7 +1,7 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) 27: Forms and Props
 ===
 
-GitHub PR:
+GitHub PR: https://github.com/GitHubMaxwell/27-forms-and-props/pull/1
 
 #### Documentation  
 This is a form that takes user input and returns back sub-reddit topics of the same type and the amount that you have designated between `0 - 100`
